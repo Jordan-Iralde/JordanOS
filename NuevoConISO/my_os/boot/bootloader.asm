@@ -1,0 +1,1 @@
+# Código del bootloader (ej. GRUB o uno propio)
